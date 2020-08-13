@@ -278,9 +278,9 @@ def delete_file(s):
 if __name__ == "__main__":
 
     # Input PLC IP
-    # print('Please input the PLC IP that you want to connect to:')
-    # ip = raw_input('Target PLC IP:')
-    ip = '192.168.20.122'
+    print('Please input the PLC IP that you want to connect to:')
+    ip = raw_input('Target PLC IP:')
+    
     OMRON_FINS_PORT = 9600
     if not validata(ip):
         print('IP format is wrong')
