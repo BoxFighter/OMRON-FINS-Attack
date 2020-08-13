@@ -1,6 +1,19 @@
 # OMRON-FINS-Protocol-Attack
 OMRON FINS Protocol analysis and attack script
 
+Omron Fins Protocol Command Menu:
+1-Run, 2-Stop, 3-Monitor, 4-Reset,
+
+5-Set Forced State, 6-Cancel Forced State,
+
+7-Memory Area Read, 8-Memory Area Write, 9-Memory Area Fill,
+
+10-Parameter Area Read, 11-Program Area Read,
+
+12-Write Single File, 13-Read Single File, 14-Delete File,
+
+88-End the script
+
 ## 1. FINS协议简介
 欧姆龙(Omron)是来自日本的全球制造公司，产品是工业和制造业的机器。其中、小型PLC在国内市场有较高的占有率，有CJ、CM等系列。PLC可以支持Fins、Host link等协议进行通信。支持以太网的欧姆龙PLC CPU、以太网通信模块根据型号的不同，一般都会支持FINS(Factory Interface Network Service)协议，一些模块也会支持EtherNet/IP协议。
 
