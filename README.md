@@ -14,6 +14,8 @@ Omron Fins Protocol Command Menu:
 
 88-End the script
 
+**Usage：python poc_fins.py**
+
 ## 1. FINS协议简介
 欧姆龙(Omron)是来自日本的全球制造公司，产品是工业和制造业的机器。其中、小型PLC在国内市场有较高的占有率，有CJ、CM等系列。PLC可以支持Fins、Host link等协议进行通信。支持以太网的欧姆龙PLC CPU、以太网通信模块根据型号的不同，一般都会支持FINS(Factory Interface Network Service)协议，一些模块也会支持EtherNet/IP协议。
 
