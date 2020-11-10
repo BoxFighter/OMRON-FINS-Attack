@@ -1,5 +1,5 @@
 # OMRON-FINS-Protocol-Attack
-OMRON FINS Protocol analysis and attack script
+OMRON FINS Protocol analysis and function code attack script
 
 Omron Fins Protocol Command Menu:
 1-Run, 2-Stop, 3-Monitor, 4-Reset,
