@@ -15,5 +15,5 @@ Omron Fins Protocol Command Menu:
 88-End the script
 
 ## Please pay me to drink a bottle of Coca Cola
-![替代文本](https://raw.githubusercontent.com/你的用户名/你的仓库名/main/path/to/example.png)
+![替代文本](https://raw.githubusercontent.com/BoxFighter/IMG/master/sponor.png)
 
